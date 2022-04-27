@@ -13,3 +13,5 @@
 ## Стек технологий
 - React 17.0.2
 - TypeScript
+
+[Презентация](https://daspivas.github.io/millionaire-project-presentation/#/)
